@@ -628,7 +628,7 @@ ggplot(data = rbind(GBM.test, rbind(GBM.test.new, GBM.test.new.long))) +
 
 
 
-## PREDICT FOR RuleFit, KÕIK 3199 REEGLIT:
+## PREDICT FOR RuleFit, ALL 3199 RULES:
 
 # for test data:
 test.data <- cbind(test.data,
